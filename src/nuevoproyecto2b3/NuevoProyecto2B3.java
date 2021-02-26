@@ -20,6 +20,7 @@ public class NuevoProyecto2B3 {
         
         int edad = 21;
         System.out.println("edad = " + edad);
+        System.out.println("Alexander de Jesus Medina Colli");
     }
     
 }
