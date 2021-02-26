@@ -19,6 +19,7 @@ public class NuevoProyecto2B3 {
         System.out.println("prueba2");
         
         int edad = 21;
+        System.out.println("edad = " + edad);
     }
     
 }
